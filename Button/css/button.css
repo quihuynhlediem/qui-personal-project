@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+a:link {
+    background-color: rgb(64, 109, 89);
+    color: rgb(233, 255, 204);
+}
+
+a:hover {
+    font-weight: bold;
+    background-color: rgb(131, 188, 117);
+}
+
+a:active {
+    font-weight: bold;
+    background-color: rgb(64, 109, 89);
+}
